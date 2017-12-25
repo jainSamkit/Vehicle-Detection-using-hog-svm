@@ -108,6 +108,8 @@ I recorded the bounding box heat maps of last 30 frames and set the threshold to
 
 Here's an example result showing the heatmap from a series of frames of video, the result of `scipy.ndimage.measurements.label()` and the bounding boxes then overlaid on the last frame of video:
 
+![alt_text][image4]
+
 ### Here are six frames and their corresponding heatmaps:
 
 ![alt text][image6]
