@@ -93,7 +93,7 @@ Then I searched for predictions in the window on the extracted hog features on t
 
 #### 2. Show some examples of test images to demonstrate how your pipeline is working.  What did you do to optimize the performance of your classifier?
 
-I finally tested with the still test images from the test folders and got good results.One of the images is shown below and the rest is saved in output_images folder.To optimize the performance of the classifier,I restricted the windows to a particular size and overlap.
+I finally tested with the still test images from the test folders and got good results.One of the images is shown below and the rest is saved in output_images folder.To optimize the performance of the classifier,I restricted the windows to a particular size and overlap.Also,by experimenting different features to train SVM,I found that spatial features and histogram were redundant and therefore hog features alone produced good results on this dataset.Therefore I restricted my pipeline to use only hog features to train SVM. Apart from that,I normalised image matrix data points to 0-1 to make computations easy.This though not look a very important thing to do,but I realised the difference both in terms of speed and the detections.
 
 ![alt text][image4]
 ---
