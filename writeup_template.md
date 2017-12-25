@@ -20,7 +20,8 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/bboxes.png
 [image4]: ./output_images/test6.jpg
 [image5]: ./output_images/output_bboxes.png
-[image6]: ./output_images/test6.jpg
+[image6]: ./output_images/labels_map.png
+[image7]: ./output_images/test1.jpg
 [video1]: ./result_videos/project_output.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
@@ -108,11 +109,13 @@ I recorded the bounding box heat maps of last 30 frames and set the threshold to
 
 Here's an example result showing the heatmap from a series of frames of video, the result of `scipy.ndimage.measurements.label()` and the bounding boxes then overlaid on the last frame of video:
 
-![alt_text][image4]
+![alt_text][image5]
+
+![alt text][image6]
 
 ### Here are six frames and their corresponding heatmaps:
 
-![alt text][image6]
+![alt text][image7]
 
 
 ### Discussion
