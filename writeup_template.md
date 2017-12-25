@@ -22,6 +22,11 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/output_bboxes.png
 [image6]: ./output_images/labels_map.png
 [image7]: ./output_images/test1.jpg
+[image8]: ./output_images/test2.jpg
+[image9]: ./output_images/test3.jpg
+[image10]: ./output_images/test4.jpg
+[image11]: ./output_images/test5.jpg
+[image12]: ./output_images/test6.jpg
 [video1]: ./result_videos/project_output.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
@@ -117,6 +122,15 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 ![alt text][image7]
 
+![alt text][image8]
+
+![alt text][image9]
+
+![alt text][image10]
+
+![alt text][image11]
+
+![alt text][image12]
 
 ### Discussion
 
