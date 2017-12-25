@@ -27,12 +27,9 @@ The goals / steps of this project are the following:
 [image12]: ./output_images/test6.jpg
 [video1]: ./result_videos/project_output.mp4
 
-## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
+## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points  
 
 ---
-### Writeup / README
-
 
 ### Histogram of Oriented Gradients (HOG)
 
