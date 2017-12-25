@@ -121,15 +121,10 @@ Here's an example result showing the heatmap from a series of frames of video, t
 ### Here are six frames and their corresponding heatmaps:
 
 ![alt text][image7]
-
 ![alt text][image8]
-
 ![alt text][image9]
-
 ![alt text][image10]
-
 ![alt text][image11]
-
 ![alt text][image12]
 
 ### Discussion
